@@ -1,7 +1,7 @@
 ## ~~~ Thomas Smith ~~~
 
-# Student at Champlain College
-# Unity | C# | C++
+### Student at Champlain College
+### Unity | C# | C++
 
 <!--
 **Thomas-Smith-360/Thomas-Smith-360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
