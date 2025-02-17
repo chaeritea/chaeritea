@@ -3,7 +3,7 @@ Fourth-year Game Programming major and Mathematics minor at Champlain College wi
 
 #### - 🔭 I’m currently working on [Poly-Vinyl Pests!](chaeritea.github.io/poly-vinyl-pests)
 
-#### - 👨‍💻 All of my projects are available on [My Portfolio](chaeritea.github.io) (soon)
+#### - 👨‍💻 All of my projects are available on [My Portfolio](https://chaeritea.github.io/) (soon)
 
 #### - 📫 Contact me at **thosmith2003@gmail.com**
 
