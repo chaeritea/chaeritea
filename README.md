@@ -7,8 +7,6 @@ Fourth-year Game Programming major and Mathematics minor at Champlain College wi
 
 #### - 📫 Contact me at **thosmith2003@gmail.com**
 
-#### - 🌱 I’m currently learning **Blender**
-
 -----
 
 <h3 align="left">Languages and Tools:</h3>
