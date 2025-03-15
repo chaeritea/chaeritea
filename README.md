@@ -14,4 +14,4 @@ Fourth-year Game Programming major and Mathematics minor at Champlain College wi
 
 -----
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaeritea&show_icons=true&locale=en&layout=compact" alt="chaeritea" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaeritea&show_icons=true&locale=en&layout=compact" alt="chaeritea" /></p>
