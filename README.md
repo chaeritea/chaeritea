@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Tommy</h1>
-Champlain College Graduate (Game Programming major, Mathematics minor) with experience in Unity, Unreal, and C++. I have a passion for problem solving, and nothing is more satisfying to me than figuring out a difficult programming challenge. I've worked primarily on back-end systems, graphics, and AI programming.
+Champlain College graduate (Game Programming major, Mathematics minor) with experience in Unity, Unreal, and C++. I have a passion for problem solving, and nothing is more satisfying to me than figuring out a difficult programming challenge. I've worked primarily on back-end systems, graphics, and AI programming.
 
 #### - 🔭 I’m currently working on Poly-Vinyl Pests!
 
